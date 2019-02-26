@@ -1,5 +1,2 @@
 # Line_Follower
-code for line follower bot
-this code is for bot having IR array sensor - 7 sensor
-
-Ardino is must
+Built a robust line follower robot with seven IR sensor that completes the given course in minimum time.
